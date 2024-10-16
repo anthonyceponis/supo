@@ -13,3 +13,7 @@ Enables editing of markdown files using vim with a live pdf preview and managing
 5. Run `supo <course> <supo#>`
 
 If you get missing dependencies, just installl them one by one by reading the errors.
+
+### Demo
+![image](https://github.com/user-attachments/assets/92b8e5e4-547f-4fc1-87e1-bb6d5e7f19ef)
+![image](https://github.com/user-attachments/assets/cf138e31-5b68-4959-ab71-3bc5b76f2ecd)
